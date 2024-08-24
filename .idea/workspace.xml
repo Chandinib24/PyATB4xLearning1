@@ -5,24 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5857e19b-316c-46c8-b20a-96780b873e54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Exercise Task 1 home work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Exercise Task 2 home work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Task3 Homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Task4 Homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Task5 Homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2koP29YTsBQgmQJgRwP0vabXNpZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,6 +60,16 @@
     "Python.Lab023.executor": "Run",
     "Python.Lab024.executor": "Run",
     "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
+    "Python.Task3 Homework.executor": "Run",
+    "Python.Task4 Homework.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
