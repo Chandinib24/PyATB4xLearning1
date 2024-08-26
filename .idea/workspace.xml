@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5857e19b-316c-46c8-b20a-96780b873e54" name="Changes" comment="commit and push All files">
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Task 10 Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Task 11Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Task 7 Leap year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Task 8 Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Task 9 Fizzbuzz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/Lab052.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,12 @@
     "Python.Lab052.executor": "Run",
     "Python.Lab053.executor": "Run",
     "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Task 10 Factorial.executor": "Run",
+    "Python.Task 7 Leap year.executor": "Run",
+    "Python.Task 8 Triangle.executor": "Run",
+    "Python.Task 9 Fizzbuzz.executor": "Run",
     "Python.Task3 Homework.executor": "Run",
     "Python.Task4 Homework.executor": "Run",
     "Python.Task5 Homework.executor": "Run",
@@ -126,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724523268874</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit and push All files">
+      <option name="closed" value="true" />
+      <created>1724606898560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724606898560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
